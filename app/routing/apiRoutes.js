@@ -11,5 +11,7 @@ module.exports = function(app) {
     })
 
     // POST ROUTING
-    app.post()
+    app.post("../data/friends", function (req, res) {
+        
+    })
 }
