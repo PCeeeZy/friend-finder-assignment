@@ -7,7 +7,7 @@ const friends = require("../data/friends");
 module.exports = function(app) {
     // GET ROUTING
     app.get("../data/friends", function (req, res) {
-        res.json(friendsData);
+        res.json(friendData);
     })
 
     // POST ROUTING
