@@ -6,12 +6,13 @@ const friends = require("../data/friends");
 // ==================================================
 module.exports = function(app) {
     // GET ROUTING
-    app.get("../data/friends", function (req, res) {
+    app.get("/api/friends", function (req, res) {
         res.json(friendData);
     })
 
     // POST ROUTING
-    app.post("../data/friends", function (req, res) {
+    app.post("/api/friends", function (req, res) {
+        res.json(friendData);
         
     })
 }
