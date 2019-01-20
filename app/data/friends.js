@@ -1,7 +1,7 @@
 var friendData =[
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Donald Trump",
+        "photo": "https://media.vanityfair.com/photos/55ddc3038ebe221439ce5ce5/master/w_768,c_limit/donald-trump-history-hair-ss14.jpg",
         "scores": [
             5,
             1,
@@ -15,8 +15,8 @@ var friendData =[
             1
         ]
     },{
-    "name": "Ahmed2",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name": "Steve Rogers",
+    "photo": "https://pixel.nymag.com/imgs/daily/vulture/2018/10/04/04-captain-america.w330.h330.jpg",
     "scores": [
         2,
         4,
@@ -30,7 +30,7 @@ var friendData =[
         2
     ]},
     {"name": "Eddie",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo": "http://royaltimes.net/wp-content/uploads/2019/01/am-3.jpg",
     "scores": [
         1,
         2,

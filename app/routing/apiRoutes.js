@@ -17,7 +17,7 @@ module.exports = function(app) {
         var allScores = [];
         for (var i=0; i<friends.length; i++) {
             let result = 0;
-            for (var j=0; j<friends.score.length; j++) {
+            for (var j=0; j<friends.scores.length; j++) {
                 result += friends[i].scores[j] - currentUser.scores[j];
             }
             allScores.push(result);
